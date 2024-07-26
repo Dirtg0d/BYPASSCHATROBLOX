@@ -4,7 +4,7 @@
 
 local TCS = game:GetService("TextChatService")
 local CoreGui = game:GetService("CoreGui")
-local RStorage = game:GetService("ReaplicatedStorage")
+local RStorage = game:GetService("ReplicatedStorage")
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local HttpService = game:GetService("HttpService")
